@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "VCS-app",
+    "slug": "VCS-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "VCS-app",
+  "web": {
+    "build": {
+      "babel": {
+        "include": [
+          "react-router-native"
+        ]
+      }
+    }
+  }
+}
